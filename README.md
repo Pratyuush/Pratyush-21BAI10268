@@ -55,11 +55,22 @@ node_modules/: Contains all the npm dependencies (created after running npm inst
 To deploy this app on a live server:
 
 Ensure the server has Node.js and npm installed.
+
 Upload the files to the server.
+
 Install dependencies on the server by running npm install.
+
+
 Start the application using npm start.
+
 Configure your web server (e.g., Nginx, Apache) to forward traffic to the Node.js application running on the specified port.
+
 6. Troubleshooting
+7. 
 Port already in use: If port 5500 is already in use, either change the port in app.js or stop the other service using that port.
-Socket.io connection issues: Ensure your firewall or network settings allow WebSocket connections on the port being used.![image](https://github.com/user-attachments/assets/50e21f43-1c15-4b37-972c-7fee6ac89fc3)
+
+Socket.io connection issues: Ensure your firewall or network settings allow WebSocket connections on the port being used.![image](https://github.com/user-attachments/assets/ea72e573-4abc-4d76-bc4c-cfc71dace2bb)
+
+
+
 
