@@ -72,6 +72,8 @@ Port already in use: If port 5500 is already in use, either change the port in a
 Socket.io connection issues: Ensure your firewall or network settings allow WebSocket connections on the port being used.
 ![image](https://github.com/user-attachments/assets/3c64ad9c-3d69-459a-ab9a-53b491bff8ac)
 Real-time synchronization of game state between server and all connected clients shown below:-
+![image](https://github.com/user-attachments/assets/065e2ba5-a2ff-453a-8f7d-c623a65e9d2f)
+
 
 
 
